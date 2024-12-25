@@ -28,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bootstrap-Logo.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/45/Bootstrap-Logo.svg](https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png)" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
