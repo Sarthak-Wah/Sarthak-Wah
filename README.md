@@ -43,7 +43,7 @@
     <img src="https://www.microsoft.com/content/dam/microsoft/final/en-us/microsoft-product-and-services/power-platform/icon-powerBI.svg" alt="powerbi" width="40" height="40"/>
   </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="tableau" width="40" height="40"/>
+    <img src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" alt="tableau" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://pbs.twimg.com/profile_images/1663895699983652866/vv6Yx4Y5_400x400.jpg" alt="langchain" width="40" height="40"/>
