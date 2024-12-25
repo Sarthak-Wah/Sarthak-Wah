@@ -46,7 +46,7 @@
     <img src="https://dwglogo.com/wp-content/uploads/2016/07/1300px_Tableau_Software_logo-768x528.png" alt="tableau" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://python.langchain.com/img/brand/wordmark-dark.png" alt="langchain" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="langchain" width="40" height="40"/>
   </a>
 </p>
 <!---
