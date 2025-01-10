@@ -48,6 +48,9 @@
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="langchain" width="40" height="40"/>
   </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
 </p>
 <!---
 Sarthak-Wah/Sarthak-Wah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
