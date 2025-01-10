@@ -5,10 +5,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sarthak-wahane/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
-  </a> | 
+  </a>
   <a href="https://leetcode.com/u/Sarthak-Wah/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a> | 
+  </a>
   <a href="https://www.hackerrank.com/profile/sarthakwahane0" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
   </a>
