@@ -4,13 +4,13 @@
 <h3 align="left">Find me on:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/sarthak-wahane/" target="_blank" rel="noreferrer">
-    LinkedIn
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a> | 
   <a href="https://leetcode.com/u/Sarthak-Wah/" target="_blank" rel="noreferrer">
-    LeetCode
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a> | 
   <a href="https://www.hackerrank.com/profile/sarthakwahane0" target="_blank" rel="noreferrer">
-    HackerRank
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="40" height="40"/>
   </a>
 </p>
 
