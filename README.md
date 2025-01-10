@@ -1,6 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sarthak Wahane </h1>
 <h3 align="center">A Data Science and Machine Learning enthusiast from India.</h3>
 
+<h3 align="left">Find me on:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/sarthak-wahane/" target="_blank" rel="noreferrer">
+    LinkedIn
+  </a> | 
+  <a href="https://leetcode.com/u/Sarthak-Wah/" target="_blank" rel="noreferrer">
+    LeetCode
+  </a> | 
+  <a href="https://www.hackerrank.com/profile/sarthakwahane0" target="_blank" rel="noreferrer">
+    HackerRank
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
